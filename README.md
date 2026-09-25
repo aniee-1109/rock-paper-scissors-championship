@@ -49,5 +49,4 @@ While making this project, I got to practice Python concepts like functions, loo
 Author
 
 Ananya Tiwari
-
-**Save it as `README.md`** in the same folder as your Python file.
+26BAI10211

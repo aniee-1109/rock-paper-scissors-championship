@@ -26,3 +26,28 @@ Players can enter their names, play multiple rounds, earn points, and check thei
 
    ```bash
    python rock_paper_scissors.py
+   Enter the number of players and rounds.
+
+Enter the names of all the players.
+Choose Rock, Paper, or Scissors when it's your turn.
+At the end, check the leaderboard to see who won the championship!
+
+Game Rules
+Rock beats Scissors.
+Paper beats Rock.
+Scissors beats Paper.
+If both choose the same option, it's a draw.
+
+Points System
+Win: 3 points
+Draw: 1 point
+Loss: 0 points
+
+What I Learned
+While making this project, I got to practice Python concepts like functions, loops, classes, objects, lists, sets, and conditional statements. I also learned how to manage player scores and display a leaderboard.
+
+Author
+
+Ananya Tiwari
+
+**Save it as `README.md`** in the same folder as your Python file.
